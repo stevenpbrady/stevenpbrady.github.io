@@ -1,4 +1,5 @@
 name: "Brady Lab"
+output_dir: .
 navbar:
   title: "My Website"
   left:
