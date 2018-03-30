@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Brady Lab Lab Website\"\noutput: html_document\n---\n\n  \n  This is where we keep track of things in the lab",
+    "created" : 1522356493723.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "110569599",
+    "id" : "42BCEE4F",
+    "lastKnownWriteTime" : 1522356536,
+    "last_content_update" : 1522356536738,
+    "path" : "~/Dropbox/Documents/Science/Lab/Website/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

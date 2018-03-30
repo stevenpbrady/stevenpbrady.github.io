@@ -1,0 +1,32 @@
+---
+title: "OperatingProcedures"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# YSI Pro DDS
+## Storage
+For short term storage (i.e. during the field season when it is frequently used), just keep a moist sponge in the grey sleeve (No need to keep the red cover in place)
+For long-term storage, can use the red sleeve with moist sponge
+
+## Calibration
+### DO
+Generally always keep the probe guard on
+Calibrate by putting moist sponge in bottom of grey sleeve (don’t use red cover because it can create a negative pressure)
+Key = create a non pressurized moist environment. 
+Alternatively, could wrap a wet paper towel around the probe guard. Main thing is keep it in air, not water, but with 100% saturation.
+Then calibrate % saturated DO. 
+
+### Conductivity
+Best to calibrate to standard higher than values we measure, thus 10,00 uS is probably best for us
+Can order from Fondriest: https://www.fondriest.com/fondriest-environmental-10000-us-conductivity-standards.htm
+ 
+Put standard in graduated cylinder
+Submerge probe deep enough to ensure side vent holes are filled
+May have to knock air bubbles out of holes, so may need to give it a little tap
+Do a one point calibration. When uS value stabilizes, enter uS value.
+Calibrate on specific conductivity 
+

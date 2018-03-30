@@ -1,0 +1,8 @@
+name: "Brady Lab"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Operating Procedures"
+      href: OperatingProcedures.html
+    - text: "About"
+      href: about.html
