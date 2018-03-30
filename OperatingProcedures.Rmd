@@ -1,13 +1,18 @@
 ---
 title: "OperatingProcedures"
-output: html_document
+output: 
+  html_document:
+    toc: true
+    depth: 3
+    number_sections: true
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# YSI Pro DDS
+# YSI Pro DDS {.tabset .tabset-fade .tabset-pills}
+
 ## Storage
 For short term storage (i.e. during the field season when it is frequently used), just keep a moist sponge in the grey sleeve (No need to keep the red cover in place)
 For long-term storage, can use the red sleeve with moist sponge
