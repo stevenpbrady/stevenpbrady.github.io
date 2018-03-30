@@ -2,7 +2,7 @@ name: "Brady Lab"
 output_dir: .
 navbar:
   title: "Brady Lab"
-  icon: fa_cogs
+  icon: fa-cogs
   type: inverse
   left:
     - text: "Operating Procedures"
