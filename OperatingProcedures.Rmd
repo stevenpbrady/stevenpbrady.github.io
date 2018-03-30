@@ -19,10 +19,10 @@ For long-term storage, can use the red sleeve with moist sponge
 
 ## Calibration
 ### DO
-Generally always keep the probe guard on
-Calibrate by putting moist sponge in bottom of grey sleeve (don’t use red cover because it can create a negative pressure)
-Key = create a non pressurized moist environment. 
-Alternatively, could wrap a wet paper towel around the probe guard. Main thing is keep it in air, not water, but with 100% saturation.
+Generally always keep the probe guard on  
+Calibrate by putting moist sponge in bottom of grey sleeve (don’t use red cover because it can create a negative pressure)  
+Key = create a non pressurized moist environment.   
+Alternatively, could wrap a wet paper towel around the probe guard. Main thing is keep it in air, not water, but with 100% saturation.  
 Then calibrate % saturated DO. 
 
 ### Conductivity
