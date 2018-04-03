@@ -10,7 +10,7 @@ navbar:
     - text: Experimental Procedures
       menu: 
         - text: "ChronicExposure"
-          href: /ExperimentalProcedures/ChronicExposure.htmls
+          href: /ExperimentalProcedures/ChronicExposure.html
     - text: "About"
       href: about.html
       
