@@ -1,0 +1,22 @@
+---
+title: "Chronic Exposure Experimental Design"
+output: html_document
+---
+```{r setup, include=FALSE}
+library(knitr)
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Use the table below or click here for an interactive table: https://bradylab.shinyapps.io/ChronicSaltRandomizedBlock/
+```{r make data, echo = F}
+df <- data.frame(pop = rep(c('cd', 'ca', 'cav', 'ec', 'rx', 'rhb', 'l2', 'bs', 'kea', 'don'), 10, each = 3),
+                trt = rep(c('l', 'm', 'h'), 100), family = rep(1:10, each = 30), 
+                bench = rep(1:4, each = 75))
+df$unit <- paste(df$pop, df$family, df$trt, sep = ".")
+set.seed(1)
+df$rand <- sample(1:300, replace = F)
+
+# order df by bench and rand
+df2 <- df[order(df$bench, df$rand),]
+kable(df2)
+```
