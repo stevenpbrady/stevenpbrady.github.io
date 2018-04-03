@@ -7,6 +7,10 @@ navbar:
     - text: "Operating Procedures"
       icon: fa-cogs
       href: OperatingProcedures.html
+    - text: Experimental Procedures
+      menu: 
+        - text: "ChronicExposure"
+          href: ExperimentalProcedures/ChronicExposure.html
     - text: "About"
       href: about.html
       
