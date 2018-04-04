@@ -11,6 +11,14 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+# Webstuff {.tabset .tabset-fade .tabset-pills}
+## Git
+-  In terminal, go to main website directory
+-  git add --all
+-  git commit -m "Write comment here"
+-  git push -u origin master
+
+
 # YSI Pro DDS {.tabset .tabset-fade .tabset-pills}
 
 ## Storage
