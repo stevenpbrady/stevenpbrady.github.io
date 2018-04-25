@@ -10,14 +10,14 @@ knitr::opts_chunk$set(echo = TRUE)
 Use the table below or click here for an interactive table: https://bradylab.shinyapps.io/ChronicSaltRandomizedBlock/
 ```{r make data, echo = F}
 set.seed(1)
-df <- data.frame(pop = rep(c('cd', 'ca', 'cav', 'ec', 'rx', 'rhb', 'l2', 'bs', 'kea', 'don'), 10, each = 3),
-                trt = rep(c('l', 'm', 'h'), 100), family = rep(1:10, each = 30),  
-                rand = sample(1:300, replace = F), bench = rep(1:3, each = 100))
+df <- data.frame(pop = rep(c('cd', 'ca', 'cav', 'ec', 'a10', 'br', 'l2', 'don'), 10, each = 3),
+                trt = rep(c('l', 'm', 'h'), 80), family = rep(1:10, each = 24),  
+                rand = sample(1:240, replace = F), bench = rep(1:3, each = 80))
 df$unit <- paste(df$pop, df$family, df$trt, sep = ".")
 # order df by bench and rand
 df2 <- df[order(df$bench, df$rand),]
 # assign position, which will now be random because of previous step 
-df2$pos <-rep(1:100, 3)
+df2$pos <-rep(1:80, 3)
 # set order of levels of trt
 df2$trt <- factor(df2$trt, levels = c("l", "m", "h"))
 # now reorder df2 by family and treatment so for easier reading
