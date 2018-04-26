@@ -11,6 +11,8 @@ navbar:
       menu: 
         - text: "ChronicExposure"
           href: /ExperimentalProcedures/ChronicExposure.html
+        - text: "DevRateSaltExposure"
+          href: /ExperimentalProcedures/DevRateSaltExposure.html
     - text: "AnimalCare"
       icon: fa-cogs
       href: AnimalCare.html
