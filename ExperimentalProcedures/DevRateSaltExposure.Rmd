@@ -1,5 +1,5 @@
 ---
-title: "Developmental Rate Exposure Experimental Design"
+title: "Developmental Rate Exposure - Experimental Design"
 output: html_document
 ---
 ```{r setup, include=FALSE}
