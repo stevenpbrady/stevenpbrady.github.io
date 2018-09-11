@@ -16,6 +16,9 @@ navbar:
     - text: "AnimalCare"
       icon: fa-cogs
       href: AnimalCare.html
+    - text: "Lab expectations"
+      icon: fa-cogs
+      href: LabExpectations.html
     - text: "About"
       href: about.html
       
