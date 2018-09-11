@@ -1,0 +1,19 @@
+---
+title: "OperatingProcedures"
+output: 
+  html_document:
+    toc: true
+    depth: 3
+    number_sections: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Communication
+You are expected to communicate in a timely manner. Respond to emails promptly. 
+
+# Etiquette
+Keep the lab clean. Everyone needs to do their part. Clean up after yourself every day.
+
