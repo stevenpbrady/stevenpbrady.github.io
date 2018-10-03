@@ -1,0 +1,22 @@
+---
+title: "Grant opportunities"
+output: 
+  html_document:
+    toc: true
+    depth: 3
+    number_sections: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Graduate 
+
+# Undergrdautae 
+
+# Grad or Undergrad
+https://explorers.org/expeditions/funding/expedition_grants
+
+#PI
+https://seagrant.uconn.edu/
