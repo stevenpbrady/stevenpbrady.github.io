@@ -1,0 +1,29 @@
+---
+title: How to sign up for independent study - BIO 499"
+output: html_document
+---
+```{r setup, include=FALSE}
+library(knitr)
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+- List me as your "project sponsor" and your academic advisor as the “academic advisor”  
+- There’s no need for you to get the Chair’s signature. That happens internally after you submit  
+
+**Do the following:**  
+1. Complete the two forms (i.e. ‘Application for independent study’ and ‘guidelines’ form)  
+2. Have the application form signed digitally by your academic advisor  
+3. Email both completed forms to me one week before due date: I will then make (hopefully minor) comments, sign the forms, and return them to you for editing as needed  
+4. Email the forms to Dr. Barboza (and CC me) by 5pm on due date  
+
+*Once everything is submitted and later approved, the dean’s office will add BIO499 to your schedule. Thus, you do not actually register for this course on Banner during the registration period.*
+
+**Annual due dates**  
+-  Summer: 2nd Monday in April  
+-  Fall full semester: 2nd Monday in Apri  
+-  Fall 1st 8-week term: 2nd Monday in April  
+-  Fall 2nd 8-week term: 2nd Monday in September  
+-  Spring full semester: 2nd Monday in November  
+-  Spring 1st 8-week term: 2nd Monday in November  
+-  Spring: 2nd 8-week term: 2nd Monday in January
+

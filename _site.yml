@@ -19,6 +19,12 @@ navbar:
     - text: "Lab expectations"
       icon: fa-cogs
       href: LabExpectations.html
+    - text: "Resources"
+      menu: 
+        - text: "Grants"
+          href: /Resources/Grants.html
+        - text: "IndependentStudy"
+          href: /Resources/IndependentStudy.html
     - text: "About"
       href: about.html
       
