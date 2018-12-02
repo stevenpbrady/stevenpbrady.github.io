@@ -11,6 +11,8 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Eventually, we should have a google sheet for this instead, and just link it here.
+
 # Graduate 
 
 # Undergrdautae 
